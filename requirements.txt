@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-groq
+langchain-google-genai
+langchain-community
+bs4
+unstructured
+pypdf
+langchain-chroma
